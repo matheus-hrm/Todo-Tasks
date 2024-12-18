@@ -1,0 +1,27 @@
+[
+  {
+    "id": "70038fc0-4cae-445a-99de-c29c5645d473",
+    "createdAt": "2024-12-18T13:59:55.724Z",
+    "title": "Task",
+    "author": "mou",
+    "description": "New updated description",
+    "isDone": true,
+    "updatedAt": "2024-12-18T16:09:10.236Z"
+  },
+  {
+    "id": "a4a9632f-7767-442c-b24e-737dcdbdd4c0",
+    "createdAt": "2024-12-18T14:02:22.825Z",
+    "title": "string",
+    "description": "string",
+    "author": "string",
+    "isDone": false
+  },
+  {
+    "id": "a3db6d94-7fd9-4672-abea-fe3f9d4e44bc",
+    "createdAt": "2024-12-18T14:07:46.815Z",
+    "title": "task",
+    "description": "another task",
+    "author": "none",
+    "isDone": false
+  }
+]
